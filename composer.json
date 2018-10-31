@@ -11,7 +11,7 @@
 		}
 	],
 	"require": {
-		"yiisoft/yii": ">=1.1.13",
+		"yiisoft/yii": "1.1.20",
 		"mpdf/mpdf": "dev-master",
 		"spipu/html2pdf": "dev-master"
 	}
