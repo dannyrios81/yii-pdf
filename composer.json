@@ -3,6 +3,7 @@
 	"description": "Yii-wrapper for PHP-PDF libraries (mPDF, HTML2PDF)",
 	"keywords": ["yii", "pdf"],
 	"type": "yii-extension",
+	"license": "OSL-3.0",
 	"authors": [
 		{
 			"name": "Danny Rios Tolosa",
